@@ -1,0 +1,7 @@
+E:\C-Sharp Programming\User_Input\User_Input\bin\Debug\User_Input.exe.config
+E:\C-Sharp Programming\User_Input\User_Input\bin\Debug\User_Input.exe
+E:\C-Sharp Programming\User_Input\User_Input\bin\Debug\User_Input.pdb
+E:\C-Sharp Programming\User_Input\User_Input\obj\Debug\User_Input.csproj.AssemblyReference.cache
+E:\C-Sharp Programming\User_Input\User_Input\obj\Debug\User_Input.csproj.CoreCompileInputs.cache
+E:\C-Sharp Programming\User_Input\User_Input\obj\Debug\User_Input.exe
+E:\C-Sharp Programming\User_Input\User_Input\obj\Debug\User_Input.pdb
