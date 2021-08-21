@@ -1,0 +1,7 @@
+E:\C-Sharp Programming\Datatype\Datatype\bin\Debug\Datatype.exe.config
+E:\C-Sharp Programming\Datatype\Datatype\bin\Debug\Datatype.exe
+E:\C-Sharp Programming\Datatype\Datatype\bin\Debug\Datatype.pdb
+E:\C-Sharp Programming\Datatype\Datatype\obj\Debug\Datatype.csproj.AssemblyReference.cache
+E:\C-Sharp Programming\Datatype\Datatype\obj\Debug\Datatype.csproj.CoreCompileInputs.cache
+E:\C-Sharp Programming\Datatype\Datatype\obj\Debug\Datatype.exe
+E:\C-Sharp Programming\Datatype\Datatype\obj\Debug\Datatype.pdb
