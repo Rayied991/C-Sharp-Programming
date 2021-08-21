@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\Operators\Operators\bin\Debug\Operators.exe.config
+C:\Users\ASUS\source\repos\Operators\Operators\bin\Debug\Operators.exe
+C:\Users\ASUS\source\repos\Operators\Operators\bin\Debug\Operators.pdb
+C:\Users\ASUS\source\repos\Operators\Operators\obj\Debug\Operators.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Operators\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Operators\Operators\obj\Debug\Operators.exe
+C:\Users\ASUS\source\repos\Operators\Operators\obj\Debug\Operators.pdb
+E:\C-Sharp Programming\Operators\Operators\bin\Debug\Operators.exe.config
+E:\C-Sharp Programming\Operators\Operators\bin\Debug\Operators.exe
+E:\C-Sharp Programming\Operators\Operators\bin\Debug\Operators.pdb
+E:\C-Sharp Programming\Operators\Operators\obj\Debug\Operators.csproj.AssemblyReference.cache
+E:\C-Sharp Programming\Operators\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+E:\C-Sharp Programming\Operators\Operators\obj\Debug\Operators.exe
+E:\C-Sharp Programming\Operators\Operators\obj\Debug\Operators.pdb
