@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,7 +10,8 @@ namespace Program1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello C-Sharp!");//Writing the output but not showing
+            Console.Write("No break line");
+            Console.WriteLine("  Hello C-Sharp!");//Writing the output but not showing
             Console.ReadLine();//Keep the console window up until press another button
             
             //Drawing a shape
