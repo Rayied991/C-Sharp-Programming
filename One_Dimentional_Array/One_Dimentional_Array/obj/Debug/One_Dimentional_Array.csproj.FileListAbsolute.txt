@@ -1,0 +1,7 @@
+E:\C-Sharp Programming\One_Dimentional_Array\One_Dimentional_Array\bin\Debug\One_Dimentional_Array.exe.config
+E:\C-Sharp Programming\One_Dimentional_Array\One_Dimentional_Array\bin\Debug\One_Dimentional_Array.exe
+E:\C-Sharp Programming\One_Dimentional_Array\One_Dimentional_Array\bin\Debug\One_Dimentional_Array.pdb
+E:\C-Sharp Programming\One_Dimentional_Array\One_Dimentional_Array\obj\Debug\One_Dimentional_Array.csproj.AssemblyReference.cache
+E:\C-Sharp Programming\One_Dimentional_Array\One_Dimentional_Array\obj\Debug\One_Dimentional_Array.csproj.CoreCompileInputs.cache
+E:\C-Sharp Programming\One_Dimentional_Array\One_Dimentional_Array\obj\Debug\One_Dimentional_Array.exe
+E:\C-Sharp Programming\One_Dimentional_Array\One_Dimentional_Array\obj\Debug\One_Dimentional_Array.pdb
