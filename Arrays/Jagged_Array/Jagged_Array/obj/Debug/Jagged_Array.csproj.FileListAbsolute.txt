@@ -1,0 +1,7 @@
+E:\C-Sharp Programming\Arrays\Jagged_Array\Jagged_Array\bin\Debug\Jagged_Array.exe.config
+E:\C-Sharp Programming\Arrays\Jagged_Array\Jagged_Array\bin\Debug\Jagged_Array.exe
+E:\C-Sharp Programming\Arrays\Jagged_Array\Jagged_Array\bin\Debug\Jagged_Array.pdb
+E:\C-Sharp Programming\Arrays\Jagged_Array\Jagged_Array\obj\Debug\Jagged_Array.csproj.CoreCompileInputs.cache
+E:\C-Sharp Programming\Arrays\Jagged_Array\Jagged_Array\obj\Debug\Jagged_Array.exe
+E:\C-Sharp Programming\Arrays\Jagged_Array\Jagged_Array\obj\Debug\Jagged_Array.pdb
+E:\C-Sharp Programming\Arrays\Jagged_Array\Jagged_Array\obj\Debug\Jagged_Array.csproj.AssemblyReference.cache

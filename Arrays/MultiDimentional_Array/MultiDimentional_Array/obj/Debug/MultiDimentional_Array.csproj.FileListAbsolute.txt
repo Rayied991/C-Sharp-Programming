@@ -1,0 +1,6 @@
+E:\C-Sharp Programming\Arrays\MultiDimentional_Array\MultiDimentional_Array\bin\Debug\MultiDimentional_Array.exe.config
+E:\C-Sharp Programming\Arrays\MultiDimentional_Array\MultiDimentional_Array\bin\Debug\MultiDimentional_Array.exe
+E:\C-Sharp Programming\Arrays\MultiDimentional_Array\MultiDimentional_Array\bin\Debug\MultiDimentional_Array.pdb
+E:\C-Sharp Programming\Arrays\MultiDimentional_Array\MultiDimentional_Array\obj\Debug\MultiDimentional_Array.csproj.CoreCompileInputs.cache
+E:\C-Sharp Programming\Arrays\MultiDimentional_Array\MultiDimentional_Array\obj\Debug\MultiDimentional_Array.exe
+E:\C-Sharp Programming\Arrays\MultiDimentional_Array\MultiDimentional_Array\obj\Debug\MultiDimentional_Array.pdb
