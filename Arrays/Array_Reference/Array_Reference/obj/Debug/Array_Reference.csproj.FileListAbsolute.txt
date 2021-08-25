@@ -1,0 +1,7 @@
+E:\C-Sharp Programming\Arrays\Array_Reference\Array_Reference\bin\Debug\Array_Reference.exe.config
+E:\C-Sharp Programming\Arrays\Array_Reference\Array_Reference\bin\Debug\Array_Reference.exe
+E:\C-Sharp Programming\Arrays\Array_Reference\Array_Reference\bin\Debug\Array_Reference.pdb
+E:\C-Sharp Programming\Arrays\Array_Reference\Array_Reference\obj\Debug\Array_Reference.csproj.AssemblyReference.cache
+E:\C-Sharp Programming\Arrays\Array_Reference\Array_Reference\obj\Debug\Array_Reference.csproj.CoreCompileInputs.cache
+E:\C-Sharp Programming\Arrays\Array_Reference\Array_Reference\obj\Debug\Array_Reference.exe
+E:\C-Sharp Programming\Arrays\Array_Reference\Array_Reference\obj\Debug\Array_Reference.pdb
