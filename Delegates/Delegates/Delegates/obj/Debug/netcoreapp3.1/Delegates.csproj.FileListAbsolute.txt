@@ -1,0 +1,14 @@
+E:\6th Semester\OOP2\Final\Class Codes\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.exe
+E:\6th Semester\OOP2\Final\Class Codes\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.deps.json
+E:\6th Semester\OOP2\Final\Class Codes\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.json
+E:\6th Semester\OOP2\Final\Class Codes\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.dev.json
+E:\6th Semester\OOP2\Final\Class Codes\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.dll
+E:\6th Semester\OOP2\Final\Class Codes\Delegates\Delegates\bin\Debug\netcoreapp3.1\Delegates.pdb
+E:\6th Semester\OOP2\Final\Class Codes\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.csproj.AssemblyReference.cache
+E:\6th Semester\OOP2\Final\Class Codes\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+E:\6th Semester\OOP2\Final\Class Codes\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfoInputs.cache
+E:\6th Semester\OOP2\Final\Class Codes\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfo.cs
+E:\6th Semester\OOP2\Final\Class Codes\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.csproj.CoreCompileInputs.cache
+E:\6th Semester\OOP2\Final\Class Codes\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.dll
+E:\6th Semester\OOP2\Final\Class Codes\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.pdb
+E:\6th Semester\OOP2\Final\Class Codes\Delegates\Delegates\obj\Debug\netcoreapp3.1\Delegates.genruntimeconfig.cache
