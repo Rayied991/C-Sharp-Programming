@@ -1,0 +1,14 @@
+E:\6th Semester\OOP2\Final\Class Codes\Collections\Stack_Queue\Stack_Queue\bin\Debug\netcoreapp3.1\Stack_Queue.exe
+E:\6th Semester\OOP2\Final\Class Codes\Collections\Stack_Queue\Stack_Queue\bin\Debug\netcoreapp3.1\Stack_Queue.deps.json
+E:\6th Semester\OOP2\Final\Class Codes\Collections\Stack_Queue\Stack_Queue\bin\Debug\netcoreapp3.1\Stack_Queue.runtimeconfig.json
+E:\6th Semester\OOP2\Final\Class Codes\Collections\Stack_Queue\Stack_Queue\bin\Debug\netcoreapp3.1\Stack_Queue.runtimeconfig.dev.json
+E:\6th Semester\OOP2\Final\Class Codes\Collections\Stack_Queue\Stack_Queue\bin\Debug\netcoreapp3.1\Stack_Queue.dll
+E:\6th Semester\OOP2\Final\Class Codes\Collections\Stack_Queue\Stack_Queue\bin\Debug\netcoreapp3.1\Stack_Queue.pdb
+E:\6th Semester\OOP2\Final\Class Codes\Collections\Stack_Queue\Stack_Queue\obj\Debug\netcoreapp3.1\Stack_Queue.csproj.AssemblyReference.cache
+E:\6th Semester\OOP2\Final\Class Codes\Collections\Stack_Queue\Stack_Queue\obj\Debug\netcoreapp3.1\Stack_Queue.GeneratedMSBuildEditorConfig.editorconfig
+E:\6th Semester\OOP2\Final\Class Codes\Collections\Stack_Queue\Stack_Queue\obj\Debug\netcoreapp3.1\Stack_Queue.AssemblyInfoInputs.cache
+E:\6th Semester\OOP2\Final\Class Codes\Collections\Stack_Queue\Stack_Queue\obj\Debug\netcoreapp3.1\Stack_Queue.AssemblyInfo.cs
+E:\6th Semester\OOP2\Final\Class Codes\Collections\Stack_Queue\Stack_Queue\obj\Debug\netcoreapp3.1\Stack_Queue.csproj.CoreCompileInputs.cache
+E:\6th Semester\OOP2\Final\Class Codes\Collections\Stack_Queue\Stack_Queue\obj\Debug\netcoreapp3.1\Stack_Queue.dll
+E:\6th Semester\OOP2\Final\Class Codes\Collections\Stack_Queue\Stack_Queue\obj\Debug\netcoreapp3.1\Stack_Queue.pdb
+E:\6th Semester\OOP2\Final\Class Codes\Collections\Stack_Queue\Stack_Queue\obj\Debug\netcoreapp3.1\Stack_Queue.genruntimeconfig.cache
